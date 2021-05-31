@@ -13,3 +13,9 @@ lolでは相手チームは5人で構成されており、一人2つずづサモ
 eclipse neon を用いて開発しました。  
 ソースはJavaでSwingを用いてGUIを作成しています。  
 Timer処理はthreadを用いて非同期処理で実装しました。
+
+# ダウンロード
+下のリンクからjarファイル形式でダウンロードができます。
+
+imageフォルダとjarファイルを同じ階層に設置し実行してください。
+https://drive.google.com/drive/folders/1R_eFTN-5lpaJyai8zryYU1pDVOzemDVW?usp=sharing
